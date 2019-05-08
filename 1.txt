@@ -1,0 +1,3 @@
+The way to create a remote repo is to logon to github and create a repo with .gitignore and licese files - you can ignore these files if 
+you wish. Once repo is created, turn to git command and run this command git clone this will create a new folder and will download 
+all files (.gitignore and license) into new folder named after that repository.
